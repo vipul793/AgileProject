@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AgileTest">
+<listeners>
+	<listener class-name="com.Utilities.HtmlReporting"/>
+	</listeners>
+	
+	<test name="AgileProject Test">
+		<parameter name="browser" value="chrome"/>
+		<classes>
+		<class name="com.StepDefination.TC_AgileProject_001">
+		</class> 
+		</classes>
+	</test>
+</suite>

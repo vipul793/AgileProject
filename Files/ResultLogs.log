@@ -1,0 +1,74 @@
+2021-11-22 21:02:24,600  INFO [main] TesNg:50 - Url launch successfully
+2021-11-26 12:32:31,305  INFO [main] TesNg:50 - Url launch successfully
+2021-11-26 12:32:33,317  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-11-26 12:32:33,391  INFO [main] TesNg:31 - User entered username
+2021-11-26 12:32:33,457  INFO [main] TesNg:33 - User entered password
+2021-11-26 12:32:34,443  INFO [main] TesNg:36 - User logged successfully
+2021-11-26 12:32:34,448  INFO [main] TesNg:39 - Login Test Passed
+2021-11-30 19:53:38,525  INFO [main] TesNg:50 - Url launch successfully
+2021-11-30 19:54:59,657  INFO [main] TesNg:50 - Url launch successfully
+2021-11-30 19:55:57,781  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-11-30 19:55:57,882  INFO [main] TesNg:31 - User entered username
+2021-11-30 19:55:57,961  INFO [main] TesNg:33 - User entered password
+2021-11-30 19:56:01,857  INFO [main] TesNg:36 - User logged successfully
+2021-11-30 19:56:01,862  INFO [main] TesNg:39 - Login Test Passed
+2021-11-30 20:00:37,911  INFO [main] TesNg:50 - Url launch successfully
+2021-11-30 20:00:54,224  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-11-30 20:00:54,297  INFO [main] TesNg:31 - User entered username
+2021-11-30 20:00:54,356  INFO [main] TesNg:33 - User entered password
+2021-11-30 20:01:01,244  INFO [main] TesNg:36 - User logged successfully
+2021-11-30 20:01:01,250  INFO [main] TesNg:39 - Login Test Passed
+2021-11-30 20:02:42,412  INFO [main] TesNg:50 - Url launch successfully
+2021-11-30 20:03:36,527  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-11-30 20:03:36,594  INFO [main] TesNg:31 - User entered username
+2021-11-30 20:03:36,653  INFO [main] TesNg:33 - User entered password
+2021-11-30 20:03:39,726  INFO [main] TesNg:36 - User logged successfully
+2021-11-30 20:03:39,732  INFO [main] TesNg:39 - Login Test Passed
+2021-11-30 20:06:39,005  INFO [main] TesNg:50 - Url launch successfully
+2021-11-30 20:07:04,721  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-11-30 20:07:04,791  INFO [main] TesNg:31 - User entered username
+2021-11-30 20:07:04,874  INFO [main] TesNg:33 - User entered password
+2021-11-30 20:07:07,826  INFO [main] TesNg:36 - User logged successfully
+2021-11-30 20:07:07,834  INFO [main] TesNg:39 - Login Test Passed
+2021-12-07 00:20:35,110  INFO [main] TesNg:50 - Url launch successfully
+2021-12-07 00:20:37,683  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-12-07 00:20:37,849  INFO [main] TesNg:31 - User entered username
+2021-12-07 00:20:37,980  INFO [main] TesNg:33 - User entered password
+2021-12-07 00:20:39,358  INFO [main] TesNg:36 - User logged successfully
+2021-12-07 00:20:39,366  INFO [main] TesNg:39 - Login Test Passed
+2021-12-09 12:29:21,378  INFO [main] TesNg:48 - Url launch successfully
+2021-12-09 12:29:23,548  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-12-09 12:29:23,645  INFO [main] TesNg:31 - User entered username
+2021-12-09 12:29:23,718  INFO [main] TesNg:33 - User entered password
+2021-12-09 12:29:24,625  INFO [main] TesNg:36 - User logged successfully
+2021-12-09 12:29:24,630  INFO [main] TesNg:39 - Login Test Passed
+2021-12-09 12:31:55,996  INFO [main] TesNg:48 - Url launch successfully
+2021-12-09 12:31:57,704  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-12-09 12:31:57,777  INFO [main] TesNg:31 - User entered username
+2021-12-09 12:31:57,877  INFO [main] TesNg:33 - User entered password
+2021-12-09 12:31:58,905  INFO [main] TesNg:36 - User logged successfully
+2021-12-09 12:31:58,911  INFO [main] TesNg:39 - Login Test Passed
+2021-12-09 12:50:28,666  INFO [main] TesNg:48 - Url launch successfully
+2021-12-09 12:50:30,321  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-12-09 12:50:30,412  INFO [main] TesNg:31 - User entered username
+2021-12-09 12:50:30,476  INFO [main] TesNg:33 - User entered password
+2021-12-09 12:50:31,395  INFO [main] TesNg:36 - User logged successfully
+2021-12-09 12:50:31,401  INFO [main] TesNg:39 - Login Test Passed
+2021-12-09 12:52:09,170  INFO [main] TesNg:48 - Url launch successfully
+2021-12-09 12:52:10,909  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-12-09 12:52:10,980  INFO [main] TesNg:31 - User entered username
+2021-12-09 12:52:11,061  INFO [main] TesNg:33 - User entered password
+2021-12-09 12:52:12,126  INFO [main] TesNg:36 - User logged successfully
+2021-12-09 12:52:12,133  INFO [main] TesNg:39 - Login Test Passed
+2021-12-09 15:27:30,087  INFO [main] TesNg:48 - Url launch successfully
+2021-12-09 15:27:33,146  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-12-09 15:27:33,224  INFO [main] TesNg:31 - User entered username
+2021-12-09 15:27:33,318  INFO [main] TesNg:33 - User entered password
+2021-12-09 15:27:35,566  INFO [main] TesNg:36 - User logged successfully
+2021-12-09 15:27:35,575  INFO [main] TesNg:39 - Login Test Passed
+2021-12-09 15:28:45,575  INFO [main] TesNg:48 - Url launch successfully
+2021-12-09 15:28:48,490  INFO [main] TesNg:22 - Agile project is enabled and displayed
+2021-12-09 15:28:48,677  INFO [main] TesNg:31 - User entered username
+2021-12-09 15:28:48,755  INFO [main] TesNg:33 - User entered password
+2021-12-09 15:28:51,091  INFO [main] TesNg:36 - User logged successfully
+2021-12-09 15:28:51,099  INFO [main] TesNg:39 - Login Test Passed
